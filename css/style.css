@@ -494,14 +494,13 @@ button, [type="button"], [type="reset"] {
 .w-form-done {
   text-align: center;
   background-color: #ddd;
-  padding: 20px;
+  padding: 8px 0px;
   display: none;
 }
 
 .w-form-fail {
   background-color: #ffdede;
-  margin-top: 10px;
-  padding: 10px;
+  padding: 8px 0px;
   display: none;
   transition: opacity 0.5s ease;
   opacity: 1;
@@ -609,7 +608,6 @@ textarea.w-input, textarea.w-select {
 }
 
 .w-file-upload-error {
-  margin-top: 10px;
   display: block;
 }
 

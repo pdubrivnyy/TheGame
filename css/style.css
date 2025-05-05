@@ -2100,7 +2100,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .text.button_hint {
-  color: #CBCBCB0d;
+  color: #cbcbcb1a;
   margin-top: 40px;
   font-size: 17px;
 }
@@ -2110,7 +2110,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .text.button_hint:active {
-  color: #CBCBCB0d;
+  color: #cbcbcb1a;
 }
 
 .section {
